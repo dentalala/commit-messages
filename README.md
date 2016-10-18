@@ -1,6 +1,6 @@
 Atom Contributing Styleguides, the part about git commit messages.
 
-# Commit Messages
+## Commit Messages
 
 * Use the present tense (“Add feature” not “Added feature”)
 * Use the imperative mood (“Move cursor to…” not “Moves cursor to…”)
