@@ -1,4 +1,4 @@
-Atom Contributing Styleguides, the part about git commit messages.
+An excerpt from Atom Contributing Styleguide about commit messages.
 
 ## Commit Messages
 
