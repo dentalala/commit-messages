@@ -1,4 +1,6 @@
-An excerpt from Atom Contributing Styleguide about commit messages.
+# Contributing Styleguide
+
+An excerpt from the Atom Contributing Styleguide specifically about commit messages.
 
 ## Commit Messages
 
